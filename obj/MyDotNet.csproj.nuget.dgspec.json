@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eoinr\\Documents\\VScode\\microprocessor 1\\MyDotNet\\MyDotNet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eoinr\\Documents\\VScode\\microprocessor 1\\MyDotNet\\MyDotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eoinr\\Documents\\VScode\\microprocessor 1\\MyDotNet\\MyDotNet.csproj",
+        "projectName": "MyDotNet",
+        "projectPath": "C:\\Users\\eoinr\\Documents\\VScode\\microprocessor 1\\MyDotNet\\MyDotNet.csproj",
+        "packagesPath": "C:\\Users\\eoinr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eoinr\\Documents\\VScode\\microprocessor 1\\MyDotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eoinr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
